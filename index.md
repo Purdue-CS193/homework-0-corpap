@@ -1,5 +1,10 @@
-## Welcome to GitHub Pages (by cory)![santorini](https://github.com/Purdue-CS193/homework-0-corpap/assets/157079530/fd91a1c6-26d1-4d40-b4ee-ad4c62b25265)
+## Cory's first cs193 hw 
+![santorini](https://github.com/Purdue-CS193/homework-0-corpap/assets/157079530/fd91a1c6-26d1-4d40-b4ee-ad4c62b25265)
 
+My favorite things about cs193
+- it helps me with cs180
+- it is not a lot of tedious work
+- it is taught by other students
 
 This is a change that I am making to the website. My name is cory
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
