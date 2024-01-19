@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages (by cory)![santorini](https://github.com/Purdue-CS193/homework-0-corpap/assets/157079530/fd91a1c6-26d1-4d40-b4ee-ad4c62b25265)
 
+
+This is a change that I am making to the website. My name is cory
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
